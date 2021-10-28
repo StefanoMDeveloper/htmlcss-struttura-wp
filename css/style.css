@@ -42,3 +42,9 @@ footer{
     background-color: purple;
     margin-top: 10px;
 }
+
+.container::after{
+    content:"";
+    display: table;
+    clear: both;
+}
