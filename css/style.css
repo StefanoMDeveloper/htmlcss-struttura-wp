@@ -1,0 +1,44 @@
+header{
+    height: 60px;
+    background-color: violet;
+    margin-bottom: 10px;
+}
+
+section{
+    height: 360px;
+    background-color: wheat;
+    margin-bottom: 10px;
+}
+
+.container{
+    background-color: turquoise;
+}
+
+div{
+    background-color: yellow;
+}
+
+.head{
+    height: 10%;
+    margin-bottom: 2%;
+}
+
+.menu{
+    width: 20%;
+    height: 81%;
+    float: left;
+}
+
+.main{
+    width: 56%;
+    height: 81%;
+    float: left;
+    margin: 0 2%;
+    
+}
+
+footer{
+    height: 60px;
+    background-color: purple;
+    margin-top: 10px;
+}
